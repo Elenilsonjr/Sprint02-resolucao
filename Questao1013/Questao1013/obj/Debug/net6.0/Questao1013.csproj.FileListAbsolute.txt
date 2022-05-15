@@ -1,0 +1,15 @@
+C:\curso\Questao1013\Questao1013\bin\Debug\net6.0\Questao1013.exe
+C:\curso\Questao1013\Questao1013\bin\Debug\net6.0\Questao1013.deps.json
+C:\curso\Questao1013\Questao1013\bin\Debug\net6.0\Questao1013.runtimeconfig.json
+C:\curso\Questao1013\Questao1013\bin\Debug\net6.0\Questao1013.dll
+C:\curso\Questao1013\Questao1013\bin\Debug\net6.0\Questao1013.pdb
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.csproj.AssemblyReference.cache
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.AssemblyInfoInputs.cache
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.AssemblyInfo.cs
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.csproj.CoreCompileInputs.cache
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.dll
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\refint\Questao1013.dll
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.pdb
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\Questao1013.genruntimeconfig.cache
+C:\curso\Questao1013\Questao1013\obj\Debug\net6.0\ref\Questao1013.dll

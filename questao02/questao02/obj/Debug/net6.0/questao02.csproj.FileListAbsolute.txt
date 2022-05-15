@@ -1,0 +1,15 @@
+C:\curso\questao02\questao02\bin\Debug\net6.0\questao02.exe
+C:\curso\questao02\questao02\bin\Debug\net6.0\questao02.deps.json
+C:\curso\questao02\questao02\bin\Debug\net6.0\questao02.runtimeconfig.json
+C:\curso\questao02\questao02\bin\Debug\net6.0\questao02.dll
+C:\curso\questao02\questao02\bin\Debug\net6.0\questao02.pdb
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.csproj.AssemblyReference.cache
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.AssemblyInfoInputs.cache
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.AssemblyInfo.cs
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.csproj.CoreCompileInputs.cache
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.dll
+C:\curso\questao02\questao02\obj\Debug\net6.0\refint\questao02.dll
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.pdb
+C:\curso\questao02\questao02\obj\Debug\net6.0\questao02.genruntimeconfig.cache
+C:\curso\questao02\questao02\obj\Debug\net6.0\ref\questao02.dll

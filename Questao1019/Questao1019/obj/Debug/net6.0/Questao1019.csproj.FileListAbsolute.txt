@@ -1,0 +1,15 @@
+C:\curso\Questao1019\Questao1019\bin\Debug\net6.0\Questao1019.exe
+C:\curso\Questao1019\Questao1019\bin\Debug\net6.0\Questao1019.deps.json
+C:\curso\Questao1019\Questao1019\bin\Debug\net6.0\Questao1019.runtimeconfig.json
+C:\curso\Questao1019\Questao1019\bin\Debug\net6.0\Questao1019.dll
+C:\curso\Questao1019\Questao1019\bin\Debug\net6.0\Questao1019.pdb
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.csproj.AssemblyReference.cache
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.AssemblyInfoInputs.cache
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.AssemblyInfo.cs
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.csproj.CoreCompileInputs.cache
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.dll
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\refint\Questao1019.dll
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.pdb
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\Questao1019.genruntimeconfig.cache
+C:\curso\Questao1019\Questao1019\obj\Debug\net6.0\ref\Questao1019.dll
